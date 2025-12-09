@@ -5,32 +5,32 @@
 **Contenido de la carpeta**
 
 - **Descarga y limpieza de los datos**
-  1. descarga_limpieza.sh
-  2. auto-mpg.data (se incluye en caso de problemas con el repositorio UCI)
-  3. auto-mpg.names
-  4. data_clean.csv
-  5. headers.csv
-  6. auto_mpg_final.csv (resultado final de limpieza con encabezados)
+    - descarga_limpieza.sh
+    - auto-mpg.data (se incluye en caso de problemas con el repositorio UCI)
+    - auto-mpg.names
+    - data_clean.csv
+    - headers.csv
+    - auto_mpg_final.csv (resultado final de limpieza con encabezados)
   
 - **EDA.R**
-  7. EDA_codigo.rmd
-  8. EDA_visibilidad.html (para visibilidad de gráficas)
+     - EDA_codigo.rmd
+     - EDA_visibilidad.html (para visibilidad de gráficas)
   
 - **API**
-  9.  train_model.py
-  10. model_mpg.pkl
-  11. model_columns.pkl
-  12. main.py
-  13. requirements
-  14. Dockerfile
+    - train_model.py
+    - model_mpg.pkl
+    - model_columns.pkl
+    - main.py
+    - requirements
+    - Dockerfile
 
 - **Shiny App**
-  15. shiny_app.r
-  16. Dockerfile.shiny
+    - shiny_app.r
+    - Dockerfile.shiny
 
 - **Generales**
 
-  17. auto_mpg_clean.feather
+    - auto_mpg_clean.feather
   
   
 ## Limpieza de datos y preparación de la base
